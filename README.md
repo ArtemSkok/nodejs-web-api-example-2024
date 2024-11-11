@@ -24,4 +24,4 @@ npm run start:production
 ```
 
 ## Try it out
-After starting an application go to [localhost](http://localhost:{port})
+After starting an application go to [http://localhost:8080](http://localhost:8080) to try it out with Swagger.
